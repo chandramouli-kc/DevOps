@@ -1,4 +1,5 @@
 https://www.bdrsuite.com/blog/amazon-ec2-mac-instances-how-to-create/
+https://www.workfall.com/learning/blog/how-to-launch-and-connect-to-a-macos-instance-on-amazon-ec2-and-access-it-through-a-gui-using-vnc-client/
 
 ===============Complete VPC through Terraform=================
 https://medium.com/@aliatakan/terraform-create-a-vpc-subnets-and-more-6ef43f0bf4c1
