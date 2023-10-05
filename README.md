@@ -1,5 +1,9 @@
 https://www.bdrsuite.com/blog/amazon-ec2-mac-instances-how-to-create/
 
+===============Complete VPC through Terraform=================
+https://medium.com/@aliatakan/terraform-create-a-vpc-subnets-and-more-6ef43f0bf4c1
+https://spacelift.io/blog/terraform-aws-vpc
+
 
 # DevOps
 DevOps Projects
